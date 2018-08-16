@@ -1,14 +1,14 @@
 class SwitchPuzzle{
 	public static void main(String[] args) {
-		char ch='b';
+		char char='b';
 
-		switch(ch){
+		switch(char){
 			case 'a':
-			System.out.println(ch);
+			System.out.println(char);
 			case 'b':
-			System.out.println(ch);
+			System.out.println(char);
 			case 'c':
-			System.out.println(ch);
+			System.out.println(char);
 		}
 	}
 }
