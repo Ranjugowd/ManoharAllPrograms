@@ -4,7 +4,7 @@ class Else1{
 		int y;
 		if(x==10){
 			y=10;
-			System.out.println(x);
+			System.out.println("");
 			System.out.println(y);
 		}else{
 			y=30;

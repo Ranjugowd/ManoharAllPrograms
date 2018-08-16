@@ -23,7 +23,7 @@ class CalculatorTest{
 		System.out.println(Calculator.andBoolean(true,true,false));
 		System.out.println(Calculator.largerThanOne(13,10,80));
 		System.out.println(Calculator.numberInAscending(13,50,80));
-		System.out.println(Calculator.sumToDigit(3654656));
-		System.out.println(Calculatordouble.mul(3,4,5));
+		System.out.println(Calculator.sumOf4Digits(35656464));
+
 	}
 }

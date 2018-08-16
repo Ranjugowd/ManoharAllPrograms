@@ -118,6 +118,7 @@ class Calculator{
 		int i=0,j=0;
 		while( j>4) {
 		i+=num%10;
+		num=num/10;
 		j++;
 	}
 		return i;
